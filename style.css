@@ -1,0 +1,28 @@
+body{
+  background-color: #EEEEEE ;
+  color: #554994;
+  font-family: helvetica;
+  text-align: center;
+}
+h1{
+  color: #C21010;
+  font-size: 55px;
+  letter-spacing: 7px;
+  font-weight: 600;
+  
+}
+#profilepicture{
+  width: 60px;
+  border-radius: 50%;
+}
+div{
+  background: white;
+  padding: 30px;
+  border-radius: 40px;
+  box-shadow: 0 15px 35px rgba(50, 50, 93, 1) ;
+  margin: 30px;
+}
+img {
+
+border-radius: 80px;
+}
